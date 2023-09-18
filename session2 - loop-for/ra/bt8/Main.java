@@ -7,13 +7,17 @@ public class Main {
         do {
             Scanner sc = new Scanner(System.in);
             System.out.println("nhập vào cạnh A");
-            int A = sc.nextInt();
+            double A = sc.nextDouble();
             System.out.println("Nhập vào cạnh B");
-            int B = sc.nextInt();
+            double B = sc.nextDouble();
             System.out.println("Nhập vào cạnh C");
-            int C = sc.nextInt();
+            double C = sc.nextDouble();
             if (A > 0 && B > 0 && C > 0 && A + B > C && B + C > A && C + A > B) {
-                System.out.println(A + " " + " " + B + " " + C + " là cạnh của tam giác ");
+            double chuvi = A + B + C;
+            double p = chuvi/2;
+            double s = Math.sqrt(p*(p-A)*(p-B)*(p-C));
+                System.out.println(" chu vi của tam giác là " + chuvi );
+                System.out.println(" diện tich của tam giác là " + s );
                 break;
             } else {
                 System.out.println("vui lòng nhập lại ");

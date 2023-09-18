@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62a66ac5-2dd9-4ca2-abfb-ca48ea6ec8d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secssion2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session2 - loop-for/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session2 - loop-for/ra/bt1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session2 - loop-for/ra/bt2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session2 - loop-for/ra/bt3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session2 - loop-for/ra/bt4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session2 - loop-for/ra/bt5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session2 - loop-for/ra/bt6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session2 - loop-for/ra/bt7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session2 - loop-for/ra/bt8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session2 - loop-for/ra/bt8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/session2 - loop-for/ra/bt8/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +42,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -142,7 +130,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695001690792</updated>
-      <workItem from="1695001691868" duration="20936000" />
+      <workItem from="1695001691868" duration="23869000" />
     </task>
     <servers />
   </component>
